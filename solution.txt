@@ -1,0 +1,3 @@
+Trouble with forked lab. Completed in sublime and pushed to github
+
+Solution on github: https://github.com/danpaulgo/exceptional-realty-bootstrap
